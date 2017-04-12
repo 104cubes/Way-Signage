@@ -40,7 +40,7 @@ Full user registration timeline
 
 Installation:
 Create your database.
-Import sql file to create all tables
-Upload "repository" folder content to your server
+Import sql file to create all tables.
+Upload "repository" folder content to your server.
 Begin!
 
