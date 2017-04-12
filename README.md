@@ -34,9 +34,9 @@ The app that serves the representation of your choices.
 - Add your own elements (widgets)
 
 Server:
-PHP code
-Change the config.ini (in /app folder and /mobile) file with your params (database, password, email settings)
-Full user registration timeline
+PHP code.
+Change the config.ini (in /app folder and /mobile) file with your params (database, password, email settings).
+Full user registration timeline.
 
 Installation:
 Create your database.
